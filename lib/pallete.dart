@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//colors
 class Pallete {
   static const Color backgroundColor = Color.fromRGBO(24, 24, 32, 1);
   static const Color gradient1 = Color.fromRGBO(187, 63, 221, 1);
